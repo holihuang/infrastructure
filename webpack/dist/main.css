@@ -1,0 +1,111 @@
+/*!*******************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/less-loader/dist/cjs.js!./src/pages/index.less ***!
+  \*******************************************************************************************************************************************/
+html {
+  font-size: 16px;
+  height: 100%;
+}
+body {
+  height: 100%;
+  margin: 0;
+  background: #f0f2f5;
+}
+#app {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+._1_qMDmlRUvovcnGssBg8xr {
+  display: flex;
+}
+._3u0u8oeN0Kea5SN0VEkjok {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+}
+._3H-kKcTmvZaiVZhoLoXr4Q {
+  height: 100%;
+}
+
+/*!**********************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/less-loader/dist/cjs.js!./src/components/myNavLink/index.less ***!
+  \**********************************************************************************************************************************************************/
+._1j-UWx05vxpGkPOXfwtuTU {
+  background: blue;
+  color: #fff;
+}
+.qfl9G2ZZO75ulDMMGT08D {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/*!*******************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/less-loader/dist/cjs.js!./src/components/layout/index.less ***!
+  \*******************************************************************************************************************************************************/
+._2oEEzzSVqSi3LW-i-zBgAd {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+._2oEEzzSVqSi3LW-i-zBgAd .eDoW7LqTCRde1i-8oUGiK {
+  width: 100%;
+  height: 60px;
+  background: #001529;
+  color: #000000d9;
+}
+._2oEEzzSVqSi3LW-i-zBgAd ._1dYL451P74stlC-YaujtDf {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+}
+._2oEEzzSVqSi3LW-i-zBgAd ._1dYL451P74stlC-YaujtDf ._2wg5coeOkSBBE5yPh4W3eT {
+  width: 200px;
+  height: 100%;
+  background: darkgrey;
+  display: flex;
+  flex-direction: column;
+}
+._2oEEzzSVqSi3LW-i-zBgAd ._1dYL451P74stlC-YaujtDf .kxq2OrvAQx72zD1GP-Swq {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+/*!************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/less-loader/dist/cjs.js!./src/pages/home/index.less ***!
+  \************************************************************************************************************************************************/
+
+/*!*************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/less-loader/dist/cjs.js!./src/pages/about/index.less ***!
+  \*************************************************************************************************************************************************/
+
+/*!**************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/less-loader/dist/cjs.js!./src/pages/detail/index.less ***!
+  \**************************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/less-loader/dist/cjs.js!./src/pages/list/index.less ***!
+  \************************************************************************************************************************************************/
+._1Rg3byviKsuuh8rwJcQ8Jo {
+  height: 800px;
+  border: 4px solid red;
+  overflow: auto;
+  border-radius: 8px;
+  padding: 10px;
+}
+._1fgCOMv_KMmgYsi17snYmO {
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+._2kxdhU-0xEYxrSAAgM7lRw {
+  position: relative;
+}
+
